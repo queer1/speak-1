@@ -1,7 +1,7 @@
 Speak
 =====
 
-Little bash script that outputs spoken text through your speaker
+Little bash script that outputs spoken text through your speaker 
 Made with love to freak out people at home
 
 Requirements
