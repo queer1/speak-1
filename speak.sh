@@ -3,7 +3,7 @@
 # usage: speak.sh [-l LANG] <text>
 # LANG is en (american english) by default
 #
-# Rodrigo Lopes, rodrigolpscarvalho@gmail.com
+# Author: Rodrigo Lopes, rodrigolpscarvalho@gmail.com
 
 lang="en"
 if [[ $1 = "-l" ]]; then
