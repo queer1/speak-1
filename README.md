@@ -35,3 +35,7 @@ Pull the repository again and update the script
 	chmod +x speak.sh
 	sudo cp speak.sh /usr/sbin/speak #again, wherever
 
+Author
+------
+
+Rodrigo Lopes, rodrigolpscarvalho@gmail.com

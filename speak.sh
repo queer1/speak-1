@@ -2,6 +2,8 @@
 # outputs text through your speakers using Google Translate
 # usage: speak.sh [-l LANG] <text>
 # LANG is en (american english) by default
+#
+# Rodrigo Lopes, rodrigolpscarvalho@gmail.com
 
 lang="en"
 if [[ $1 = "-l" ]]; then
