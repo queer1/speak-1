@@ -6,7 +6,7 @@ Little bash script that outputs spoken text through your speaker
 Requirements
 ------------
 
-* mplayer, wget and lame
+`mplayer`, `wget` and `lame` (for mp3)
 
 	sudo apt-get install mplayer wget lame
 
